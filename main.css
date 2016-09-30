@@ -1,0 +1,17 @@
+body {
+  margin-top: 60px;
+}
+
+.signature {
+  height: 80%;
+  width: 80%;
+  margin-left: 10%;
+}
+
+.thumbnail img{
+  width: 100%;
+}
+
+#normal {
+    height: auto;
+}
